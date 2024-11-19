@@ -1,0 +1,28 @@
+header {
+  background-color: #879325;
+}
+
+.banner img {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.welcome-section h2 {
+  color: #879325;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.bg-light {
+  background-color: #f1f4d4 !important;
+}
+
+.bg-success {
+  background-color: #879325;
+}
