@@ -1,5 +1,23 @@
+#img1 {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+#nav-logo {
+  background-color: #699e63;
+}
+#header-logo {
+  background-color: #699e63;
+}
+
+#navbar-color {
+  background-color: #598554;
+}
+#cont-img {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
 header {
-  background-color: #879325;
+  background-color: 699e63;
 }
 
 .banner img {
